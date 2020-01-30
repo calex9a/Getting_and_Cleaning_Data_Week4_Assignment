@@ -13,7 +13,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * activity_labels.txt
 * features.txt
 
-# Output File
+# Output Text File
 
 The code found in the file run_analysis.R will produce a .txt file in the working directory called FinalData.txt.  This file has 180 rows and 68 cloumns that are grouped Activity_Label and Subject.  There are 30 participants with 6 activities (180 rows).  The data contains the mean of 66 measurements
 
